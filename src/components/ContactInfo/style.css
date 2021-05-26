@@ -1,0 +1,12 @@
+.styleRow {
+  position: absolute;
+  bottom: 0;
+  margin-left: 40%;
+  margin-bottom: 40px;
+}
+.img-tech {
+  padding: 5px;
+}
+.contact-title {
+  padding-left: 60px;
+}

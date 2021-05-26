@@ -1,0 +1,19 @@
+* {
+  z-index: -1;
+}
+.containers {
+  width: 100%;
+  margin: 0;
+  z-index: -1;
+}
+.image-stack {
+  position: relative;
+}
+.image-bottom {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  opacity: 0.9;
+  display: block;
+}
+
